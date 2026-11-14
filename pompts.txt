@@ -1,0 +1,8 @@
+ayudame a revisar por que no funcionan las tablas de supabase y explicame paso a paso
+
+como puedo crear una pantalla que muestre los equipos disponibles del laboratorio y permita solicitar prestamos
+
+como puedo crear funciones para que el administrador pueda aprobar o rechazar solicitudes
+
+ayudame a solucionar el error email al iniciar sesion
+

@@ -1,0 +1,18 @@
+a. entendi que se necesita de una aplicacion para prestar equipos de un laboratorio para
+    estudiantes
+    el sistema tiene que permitiri que los estudiantes se registraran, inicisar sesion,
+    vieran los equipos disponibles y solicitaran prestamos. Tambien tenia que tener con un
+    admministrador encargado de realizar esas solicitudes
+
+    para guardar la infomacion utilice supabase y use estas tablas:
+    perfiles
+    equipos
+    prestamos
+
+b. la creacion de las tablas en supabase, ya que no me funcionaban las que yo habia hecho
+    use la ia para comprender los errores que me daba el codigo
+
+c. Al momento de iniciar sesion habia un problema, revise la autenticacion en supabase
+y confirme el correo del usuario
+realice pruebas creando usuarios diferentes para ver si la aplicacion funcionaba correctamente
+
